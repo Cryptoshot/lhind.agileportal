@@ -6,6 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./planningpoker.component.css']
 })
 export class PlanningpokerComponent implements OnInit {
+  title= 'Planning Poker';
 
   constructor() { }
 

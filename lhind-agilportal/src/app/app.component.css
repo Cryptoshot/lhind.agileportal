@@ -8,6 +8,9 @@
     color: white;
     text-align: center;
     padding-bottom: 8%;
-    font-family: Arial, Helvetica, sans-serif; 
+    font-family {
+        font-family: LHIND-Font;
+        src: url('lhind.agileportal\lhind-agilportal\Projektdateien\LHIND Font') format('truetype');
+    }
     font-size: 120%;
 }

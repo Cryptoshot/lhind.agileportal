@@ -10,6 +10,8 @@ import { StandupConfigComponent } from './components/standup-config/standup-conf
 import { StandupTimerComponent } from './components/standup-timer/standup-timer.component';
 import { PlanningpokerComponent } from './components/planningpoker/planningpoker.component';
 
+import 'hammerjs';
+
 
 @NgModule({
   declarations: [

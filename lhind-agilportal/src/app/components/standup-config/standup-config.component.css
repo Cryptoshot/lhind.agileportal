@@ -8,8 +8,8 @@ mat-slider {
     width: 300px;
   }
 
-[custIcon]{
-    color: rgb(5, 22, 76);
-    padding-top: 25%;
-    font-size: 100px;
+[custIcon]{ 
+  color: rgb(5, 22, 76);
+  padding-top: 25%;
+  font-size: 100px;
 }
